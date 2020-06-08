@@ -1,0 +1,15 @@
+{
+  "name": "node-step7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test",
+    "start": "node index"
+  },
+  "author": "whitersa",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}

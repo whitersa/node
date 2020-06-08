@@ -1,0 +1,11 @@
+{
+  "name": "node-step2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ip-location.js",
+  "scripts": {
+    "start": "node ip-location"
+  },
+  "author": "whitersa",
+  "license": "ISC"
+}

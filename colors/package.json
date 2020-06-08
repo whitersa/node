@@ -1,0 +1,11 @@
+{
+  "name": "node-step3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "colors.js",
+  "scripts": {
+    "start": "node colors"
+  },
+  "author": "whitersa",
+  "license": "ISC"
+}
